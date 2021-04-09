@@ -1,7 +1,7 @@
 package inbuilt.Functional.Interface;
 
 public class Employee {
-	String name;
+	public String name;
 	int salary;
 	
 	public Employee(String name, int salary) {
