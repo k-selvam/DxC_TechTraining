@@ -24,14 +24,14 @@ public class StudentTest {
 
 	}
 
-	public static void PopulateStudents() {
+	public static ArrayList<JavaStudent> PopulateStudents() {
 		javastudents = new ArrayList<JavaStudent>();
 		javastudents.add(new JavaStudent("selvam", 70));
 		javastudents.add(new JavaStudent("subash", 80));
 		javastudents.add(new JavaStudent("rahul", 95));
 		javastudents.add(new JavaStudent("vicky", 55));
 		javastudents.add(new JavaStudent("sundar", 63));
-
+		return javastudents;
 	}
 
 }
