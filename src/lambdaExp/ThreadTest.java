@@ -1,4 +1,4 @@
-package LambdaExpression;
+package lambdaExp;
 
 public class ThreadTest {
 	public static void main(String[] args) {

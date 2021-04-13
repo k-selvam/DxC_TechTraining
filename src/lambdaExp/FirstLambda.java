@@ -1,4 +1,4 @@
-package LambdaExpression;
+package lambdaExp;
 import java.util.function.Function;
 public class FirstLambda {
 

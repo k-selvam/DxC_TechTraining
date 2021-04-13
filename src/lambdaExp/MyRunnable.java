@@ -1,4 +1,4 @@
-package LambdaExpression;
+package lambdaExp;
 
 public class MyRunnable implements Runnable {
 	
