@@ -1,4 +1,4 @@
-package lamdaExpDefaultStatic;
+package lambdaExp.DefaultStatic;
 
 public interface ICollection {
 
