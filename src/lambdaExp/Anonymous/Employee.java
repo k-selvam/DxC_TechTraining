@@ -1,4 +1,4 @@
-package lambdaExpAnonymous;
+package lambdaExp.Anonymous;
 
 public class Employee extends Person {
 

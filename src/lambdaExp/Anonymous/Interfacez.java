@@ -1,4 +1,4 @@
-package lambdaExpAnonymous;
+package lambdaExp.Anonymous;
 
 public interface Interfacez {
 	public void m1();

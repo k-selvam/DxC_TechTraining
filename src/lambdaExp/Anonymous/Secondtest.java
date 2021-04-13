@@ -1,4 +1,4 @@
-package lambdaExpAnonymous;
+package lambdaExp.Anonymous;
 
 public class Secondtest {
 public static void main(String[] args) {
