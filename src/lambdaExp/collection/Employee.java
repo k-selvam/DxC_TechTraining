@@ -1,4 +1,4 @@
-package LamdaExp.Collections;
+package lambdaExp.collection;
 
 public class Employee {
 	String name;

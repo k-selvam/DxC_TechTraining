@@ -1,4 +1,4 @@
-package LamdaExp.Collections;
+package lambdaExp.collection;
 import java.util.*;
 public class ListNumber {
 
